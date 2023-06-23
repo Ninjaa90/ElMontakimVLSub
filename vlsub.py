@@ -33,10 +33,10 @@ print(" \033[1m https://t.me/ElMontakim")
 time.sleep(2)
 webbrowser.open('https://t.me/ElMontakim')
 time.sleep(2)
-print("Get the password from : ", "")
+print("Get the password from : ", " https://linkjust.com/AxnaYIP9Z29Qm0iii ")
 time.sleep(2)
 password=input("Enter The password :: ")
-while password != "123" :
+while password != "ElMontakim" :
     print('wrong password')
     password=input("Enter The password :: ")
 time.sleep(1)
